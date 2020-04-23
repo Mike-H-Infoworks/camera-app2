@@ -1,2 +1,2 @@
 # camera-app2
-camera app part 2
+Super awesome camera web app built with HTML, CSS, and JS.
